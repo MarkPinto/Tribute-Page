@@ -1,0 +1,6 @@
+img
+{
+	max-width:100%;/*Maximum width of an element*/
+  	display:block;/*Starts on a new line, and takes up the whole width*/
+  	width:100%;/*Sets width of element*/
+}
