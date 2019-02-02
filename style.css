@@ -4,3 +4,19 @@ img
   	display:block;/*Starts on a new line, and takes up the whole width*/
   	width:100%;/*Sets width of element*/
 }
+
+.figcaption-padding /*Pushes figcaption down a few pixels*/
+{
+	padding-top: 10px;
+}
+
+.center-text figcaption, .center-text h1, .center-text h2, .center-text p
+{
+	text-align: center;
+}
+
+ul /*Keeps bullet points starting in the center*/
+{
+	display: table;
+	margin: 0 auto;
+}
